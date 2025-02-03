@@ -10,7 +10,7 @@ export function scheduleDays(){
 
 
     // Renderiza as horas disponiveis
-    hoursLoad({})
+    hoursLoad({date})
 }
 
 
